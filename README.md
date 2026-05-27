@@ -3,6 +3,10 @@
 
 ## Overview
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/usail-hkust/HRBench/blob/main/src/docs/overview.png">
+</div>
+
 **HRBench** is a unified evaluation framework for studying *thinking-mode switching* in hybrid-reasoning LLMs. It systematically covers:
 
 - **3 Switching Strategies**: Prompt-Tuning (PT), Routing (RT), Speculative (Spec)
