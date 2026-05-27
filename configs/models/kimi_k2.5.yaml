@@ -1,0 +1,7 @@
+name: kimi_k2.5
+engine: api
+api_base: https://api.moonshot.cn/v1
+thinking_control: enable_thinking
+max_tokens: 32768
+modes: [think, nothink]
+size: 1.1T

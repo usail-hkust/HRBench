@@ -1,0 +1,5 @@
+name: qwen3.5_9b
+hf_path: Qwen/Qwen3.5-9B
+thinking_control: enable_thinking
+max_tokens: 32768
+modes: [think, nothink, budget]

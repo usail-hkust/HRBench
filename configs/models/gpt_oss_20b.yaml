@@ -1,0 +1,5 @@
+name: gpt_oss_20b
+hf_path: gpt-oss-20B
+thinking_control: reasoning_effort
+max_tokens: 32768
+modes: [high, medium, low]

@@ -1,0 +1,10 @@
+# GRPO Training Hyperparameters (Table A.1 in paper)
+learning_rate: 1.0e-6
+batch_size: 4
+max_length: 98304
+kl_coeff: 0.01
+num_rollouts: 8
+temperature: 1.0
+reward_alpha: 1.0    # accuracy weight
+reward_beta: 0.5     # efficiency weight
+framework: verl

@@ -1,0 +1,7 @@
+name: deepseek_v3.1
+engine: api
+api_base: https://api.deepseek.com/v1
+thinking_control: enable_thinking
+max_tokens: 32768
+modes: [think, nothink]
+size: 671B

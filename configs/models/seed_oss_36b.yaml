@@ -1,0 +1,6 @@
+name: seed_oss_36b
+hf_path: Seed-OSS-36B-Instruct
+thinking_control: thinking_budget
+max_tokens: 32768
+modes: [unlimited, zero, budget_N]
+budget_range: [0, 16384]

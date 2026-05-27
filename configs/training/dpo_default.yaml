@@ -1,0 +1,9 @@
+# DPO Training Hyperparameters (Table A.1 in paper)
+learning_rate: 5.0e-7
+batch_size: 4
+num_epochs: 1
+max_length: 122880
+beta: 0.1
+warmup_ratio: 0.03
+framework: torchrun
+gradient_accumulation_steps: 4

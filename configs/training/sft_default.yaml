@@ -1,0 +1,9 @@
+# SFT Training Hyperparameters (Table A.1 in paper)
+learning_rate: 2.0e-5
+batch_size: 4
+num_epochs: 2
+max_length: 122880
+warmup_ratio: 0.03
+weight_decay: 0.01
+framework: torchrun
+gradient_accumulation_steps: 4
