@@ -1,4 +1,4 @@
-# HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs
+# HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs ([PDF](https://arxiv.org/pdf/2605.28398))
 
 
 ## Overview
@@ -162,6 +162,20 @@ python scripts/analysis/plot_figures.py --csv all_results.csv --output_dir figur
 
 # Generate LaTeX tables
 python scripts/analysis/generate_tables.py --csv all_results.csv
+```
+
+
+## 📚 References
+
+If you use HRBench is useful and interesting. Please consider to cite the following works:
+
+```
+@article{ning2026agent,
+  title={Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning},
+  author={Ning, Yansong and Liu, Mianpeng and Ye, Jingwen and Zhang, Weidong and Liu, Hao},
+  journal={arXiv preprint arXiv:2602.04284},
+  year={2026}
+}
 ```
 
 ## License
