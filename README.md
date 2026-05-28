@@ -167,7 +167,7 @@ python scripts/analysis/generate_tables.py --csv all_results.csv
 
 ## 📚 References
 
-If you use HRBench is useful and interesting. Please consider to cite the following works:
+If you use HRBench and think it is useful and interesting. Please consider citing the following works:
 
 ```
 @article{ning2026agent,
