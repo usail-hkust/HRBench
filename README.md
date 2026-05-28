@@ -170,8 +170,8 @@ python scripts/analysis/generate_tables.py --csv all_results.csv
 If you use HRBench and think it is useful and interesting. Please consider citing the following works:
 
 ```
-@article{ning2026agent,
-  title={Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning},
+@article{ning2026hrbench,
+  title={HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs},
   author={Ning, Yansong and Liu, Mianpeng and Ye, Jingwen and Zhang, Weidong and Liu, Hao},
   journal={arXiv preprint arXiv:2602.04284},
   year={2026}
