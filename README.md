@@ -173,7 +173,7 @@ If you use HRBench and think it is useful and interesting. Please consider citin
 @article{ning2026hrbench,
   title={HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs},
   author={Ning, Yansong and Liu, Mianpeng and Ye, Jingwen and Zhang, Weidong and Liu, Hao},
-  journal={arXiv preprint arXiv:2602.04284},
+  journal={arXiv preprint arXiv:2605.28398},
   year={2026}
 }
 ```
